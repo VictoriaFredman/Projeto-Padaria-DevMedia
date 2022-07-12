@@ -1,4 +1,3 @@
-
 .secao {
     width: 700px;
     margin: 20px auto;
@@ -22,15 +21,34 @@ h1 {
     border-top: 1px solid #de8e37;
 }
 
+.secao {
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
 h2 {
     font-weight: normal;
     color: #de8e37;
     margin-top: 10px;
 }
 
+.secao {
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
 .imagem-banner {
     width: 700px;
 }
+
+.secao {
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
 
 .secao-destaque {
     background-color: #de8e37;
@@ -61,14 +79,6 @@ h2 {
 .imagem-bolo {
     width: 400px;
 }
-
-
-
-
-
-
-
-
 
 span {
     font-weight: bold;
